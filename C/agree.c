@@ -7,11 +7,11 @@
     printf("Do you agree? ");
     scanf("%c", &c);
 
-    if (c == 'y') {
+    if (c == 'y' || c == 'Y') {
 
         printf("Agreed.\n");
     }
-    else if (c == 'n') {
+    else if (c == 'n' || c == 'N') {
 
         printf("Not agreed.\n");
     }
