@@ -2,9 +2,10 @@
 
 int main(void) {
 
-    printf("meow\n");
-    printf("meow\n");
-    printf("meow\n");
-    
+    for (int counter=0; counter<3; counter++) {
+
+        printf("meow\n");
+    }
+
     return 0;
 }
