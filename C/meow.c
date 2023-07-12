@@ -2,7 +2,7 @@
 
 int main(void) {
 
-    for (int counter=0; counter<3; counter++) {
+    for (int i=0; i<3; i++) {
 
         printf("meow\n");
     }
