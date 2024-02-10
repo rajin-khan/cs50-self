@@ -1,3 +1,7 @@
+CS50 NOTES
+
+LEC1: C
+
 create a c file
 compile it with:
 make *filename*
